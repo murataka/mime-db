@@ -596,7 +596,7 @@
   },
   "application/javascript": {
     "source": "iana",
-    "charset": "UTF-8",
+    "charset": "utf-8",
     "compressible": true,
     "extensions": ["js","mjs"]
   },
@@ -617,7 +617,7 @@
   },
   "application/json": {
     "source": "iana",
-    "charset": "UTF-8",
+    "charset": "utf-8",
     "compressible": true,
     "extensions": ["json","map"]
   },
@@ -700,7 +700,7 @@
     "extensions": ["mads"]
   },
   "application/manifest+json": {
-    "charset": "UTF-8",
+    "charset": "utf-8",
     "compressible": true,
     "extensions": ["webmanifest"]
   },
@@ -7165,7 +7165,7 @@
   },
   "text/css": {
     "source": "iana",
-    "charset": "UTF-8",
+    "charset": "utf-8",
     "compressible": true,
     "extensions": ["css"]
   },
@@ -7327,7 +7327,7 @@
   },
   "text/turtle": {
     "source": "iana",
-    "charset": "UTF-8",
+    "charset": "utf-8",
     "extensions": ["ttl"]
   },
   "text/ulpfec": {
@@ -7459,7 +7459,7 @@
     "extensions": ["wmls"]
   },
   "text/vtt": {
-    "charset": "UTF-8",
+    "charset": "utf-8",
     "compressible": true,
     "extensions": ["vtt"]
   },
